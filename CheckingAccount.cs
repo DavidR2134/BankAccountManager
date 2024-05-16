@@ -33,7 +33,15 @@ namespace BankAccountManager
 
         public override void deposit(double amount)
         {
-            throw new NotImplementedException();
+            if(amount < 0)
+            {
+                System.Console.WriteLine("Please enter an amount greater than 0.");
+            }
+            else
+            {
+                this.setBalance((this.getBalance() + amount));
+                System.Console.WriteLine($"New Balance: {this.getBalance()}");
+            }
         }
     }
 }
