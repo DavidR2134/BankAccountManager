@@ -6,7 +6,7 @@ namespace BankAccountManager
     {
         public static void Main(string[] args)
         {
-            
+
         }
     }
 }

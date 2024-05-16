@@ -1,0 +1,15 @@
+C:\Users\David Rogers\GitHub\BankAccountManager\bin\Debug\net8.0\BankAccountManager.exe
+C:\Users\David Rogers\GitHub\BankAccountManager\bin\Debug\net8.0\BankAccountManager.deps.json
+C:\Users\David Rogers\GitHub\BankAccountManager\bin\Debug\net8.0\BankAccountManager.runtimeconfig.json
+C:\Users\David Rogers\GitHub\BankAccountManager\bin\Debug\net8.0\BankAccountManager.dll
+C:\Users\David Rogers\GitHub\BankAccountManager\bin\Debug\net8.0\BankAccountManager.pdb
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.AssemblyInfoInputs.cache
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.AssemblyInfo.cs
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.csproj.CoreCompileInputs.cache
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.sourcelink.json
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.dll
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\refint\BankAccountManager.dll
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.pdb
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\BankAccountManager.genruntimeconfig.cache
+C:\Users\David Rogers\GitHub\BankAccountManager\obj\Debug\net8.0\ref\BankAccountManager.dll
